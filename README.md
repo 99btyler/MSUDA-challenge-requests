@@ -1,6 +1,5 @@
 # MSUDA-challenge-requests
 MSU Data Analytics requests-challenge
 
-# Resources
-* What is R-Squared? https://corporatefinanceinstitute.com/resources/data-science/r-squared/
-* dropna() https://www.w3schools.com/python/pandas/ref_df_dropna.asp
+# Setup
+* Create a file called `api_keys.py` containing a variable `weather_api_key=[INSERT_API_KEY_HERE]`
